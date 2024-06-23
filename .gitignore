@@ -1,0 +1,10 @@
+*.txt
+*.pdf
+*.pyc
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+stats786/gp/group_work786/
+*.names
+*.json
